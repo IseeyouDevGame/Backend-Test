@@ -62,3 +62,7 @@ const input3 = [
     '1 packet of headache pills at 9.75',
     '3 imported boxes of chocolates at 11.25'
 ];
+
+console.log('Output 1:\n' + calculateReceipt(input1) + '\n');
+console.log('Output 2:\n' + calculateReceipt(input2) + '\n');
+console.log('Output 3:\n' + calculateReceipt(input3) + '\n');
